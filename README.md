@@ -59,7 +59,13 @@ to build reliable real-world applications.
 
 <td width="35%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsad1t1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsad1t1&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 <br/>
 
@@ -247,14 +253,6 @@ Deployment
 - Collaborated with Singapore and India engineering teams
 - Delivered production systems in an Agile environment
 
-### 🚀 Software Development Intern — Frekil
-`May 2025 – June 2025`
-
-- Built React + PostgreSQL annotator performance dashboard
-- Implemented F1, MCC, sensitivity and specificity metrics
-- Optimized PostgreSQL analytics queries
-- Reduced QA failures and improved validation speed
-
 ### 🧠 Machine Learning Intern — IIIT Allahabad
 `May 2024 – June 2024`
 
@@ -281,7 +279,6 @@ Deployment
 - 🟣 **1241** highest Codeforces rating
 - 🟠 **1605 / 3★** CodeChef rating
 - 🏆 **Global Rank 84** in CodeChef Starters 211
-- ⭐ **Exceeds Expectations** — NCS Group
 
 ---
 
@@ -289,11 +286,11 @@ Deployment
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsad1t1&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=itsad1t1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsad1t1&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsad1t1&theme=tokyonight&hide_border=true"/>
 
 </div>
 

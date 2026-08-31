@@ -283,11 +283,7 @@ Deployment
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsad1t1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsad1t1&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsad1t1&theme=tokyonight&hide_border=true" width="700"/>
 
 </div>
 

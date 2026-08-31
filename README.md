@@ -295,16 +295,25 @@ Deployment
 
 # 🎯 CURRENT FOCUS
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     AI ENGINEERING                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  🔎 Advanced RAG                                             │
-│  🤖 AI Agents & Tool Use                                     │
-│  🧠 LLM Application Development                              │
-│  🗃️ Vector Databases                                         │
-│  ⚡ LLM Inference Optimization                                │
-│  ☁️ Production AI Deployment                                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+<div align="center">
+
+### 🤖 AI ENGINEERING
+
+</div>
+
+| 🔎 Focus Area | 🚀 What I'm Building |
+|---|---|
+| 🔎 **Advanced RAG** | Retrieval pipelines & context optimization |
+| 🤖 **AI Agents** | Tool use, reasoning & autonomous workflows |
+| 🧠 **LLM Applications** | Production-ready AI applications |
+| 🗃️ **Vector Databases** | Semantic search & scalable retrieval |
+| ⚡ **Inference Optimization** | Efficient & reliable LLM inference |
+| ☁️ **AI Deployment** | Production AI systems & cloud deployment |
+
+---
+
+<div align="center">
+
+**Building AI systems that are intelligent, reliable & production-ready.**
+
+</div>

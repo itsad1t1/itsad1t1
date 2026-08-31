@@ -67,9 +67,6 @@ to build reliable real-world applications.
 
 </div>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsad1t1&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
